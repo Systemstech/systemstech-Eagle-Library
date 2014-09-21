@@ -7,7 +7,7 @@ Eagle 6.5 format!
 
 Don't click on the files!
 
-Click here to download this as a zip file.
+<a href="https://github.com/systemstech/systemstech-Eagle-Library/zipball/master">Click here</a> to download this as a zip file. to download this as a zip file.
 
 Installation
 
